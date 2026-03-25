@@ -1,0 +1,1 @@
+# teskari-soz
