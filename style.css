@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #e0f7fa, #ffffff);
+    display: flex;
+    justify-content: center;
+    
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    padding: 10px;
+    width: 260px;
+    font-size: 16px;
+    border: 2px solid black;
+    outline: none;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid black;
+    background: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: black;
+    color: white;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
